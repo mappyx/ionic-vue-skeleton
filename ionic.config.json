@@ -1,0 +1,7 @@
+{
+  "name": "tcpinspector_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
